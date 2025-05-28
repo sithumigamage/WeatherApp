@@ -21,8 +21,13 @@ A simple and responsive weather application built with **React**. This app displ
 
 ## 📦 Installation
 
-1. **Clone the repository:**
+1. **Install dependencies:**---npm install
+   
+   npm install
+   npm start
 
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+   
+
+
+
+
