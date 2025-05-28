@@ -3,7 +3,7 @@
 
 A simple and responsive weather application built with **React**. This app displays the current weather information for any city using data from a weather API.
 
-![Screenshot](./screenshot.png) <!-- Replace with the actual path to your image if different -->
+
 
 ## 🚀 Features
 
